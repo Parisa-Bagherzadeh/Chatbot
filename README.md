@@ -3,8 +3,8 @@
 🤖This is a simple chatbot implemented using pytorch and deeplearning  
 📝There is a json file named intents.json; you can change it to customize the chatbot for your own use.
 
-## Usage
-💬To use the chatbot :  
+## Usage 💬
+#### To use the chatbot :  
 
 1 - Clone the repository  
 ```
